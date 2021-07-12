@@ -1,0 +1,23 @@
+.top-player{
+display: flex;
+flex-wrap: wrap;
+
+
+}
+.player{
+    margin: 15px;
+    overflow: hidden;
+    width: 300px;
+    height: 150px;
+    position: relative;
+
+}
+.player img{
+    width: 35%;
+}
+
+.container{
+    width: 1050px;
+    display:block;
+    margin: 0 auto;
+}
